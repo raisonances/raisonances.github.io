@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://raisonances.github.io/blog/2018/03/01/welcome-to-jekyll.html</loc>
+<loc>https://raisonances.care/blog/2018/03/01/welcome-to-jekyll.html</loc>
 <lastmod>2018-03-01T14:29:04+01:00</lastmod>
 </url>
 <url>
-<loc>https://raisonances.github.io/about/</loc>
+<loc>https://raisonances.care/about.html</loc>
 </url>
 <url>
-<loc>https://raisonances.github.io/</loc>
+<loc>https://raisonances.care/</loc>
+</url>
+<url>
+<loc>https://raisonances.care/legal.html</loc>
 </url>
 </urlset>
