@@ -1,1 +1,1 @@
-Sitemap: https://raisonances.care/sitemap.xml
+Sitemap: https://raisonances.github.io/sitemap.xml
